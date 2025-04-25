@@ -1,0 +1,16 @@
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\obj\Debug\net5.0\Profession based system.csproj.AssemblyReference.cache
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\obj\Debug\net5.0\Profession based system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\obj\Debug\net5.0\Profession based system.AssemblyInfoInputs.cache
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\obj\Debug\net5.0\Profession based system.AssemblyInfo.cs
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\obj\Debug\net5.0\Profession based system.csproj.CoreCompileInputs.cache
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\bin\Debug\net5.0\Profession based system.exe
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\bin\Debug\net5.0\Profession based system.deps.json
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\bin\Debug\net5.0\Profession based system.runtimeconfig.json
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\bin\Debug\net5.0\Profession based system.runtimeconfig.dev.json
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\bin\Debug\net5.0\Profession based system.dll
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\bin\Debug\net5.0\ref\Profession based system.dll
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\bin\Debug\net5.0\Profession based system.pdb
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\obj\Debug\net5.0\Profession based system.dll
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\obj\Debug\net5.0\ref\Profession based system.dll
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\obj\Debug\net5.0\Profession based system.pdb
+C:\Users\AshikhaMylsamy\source\repos\Profession based system\Profession based system\obj\Debug\net5.0\Profession based system.genruntimeconfig.cache
